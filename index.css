@@ -1,0 +1,12 @@
+body {
+    background-color: lightseagreen;
+}
+canvas {
+    border: 1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    display: flex;
+    margin: 0 auto;
+}
+button {
+    margin: 0 auto;
+}
